@@ -16,8 +16,8 @@
    ========================================================================== */
 
 window.SITE_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_URL: "https://zycybioxswhvszjxpaxx.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_aneBum5xY4bg24rDGqKDqA__nk3aCKk",
 
   // Where enquiries land if Supabase is not configured (the mailto fallback).
   FALLBACK_EMAIL: "aamathtutor36@gmail.com",
